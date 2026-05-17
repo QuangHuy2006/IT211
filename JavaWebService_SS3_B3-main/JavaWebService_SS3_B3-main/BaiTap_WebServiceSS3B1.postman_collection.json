@@ -1,0 +1,43 @@
+{
+  "info": {
+    "_postman_id": "294740d2-967b-46a3-9477-8f6a21bae8ca",
+    "name": "BaiTap_WebServiceSS3B1",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "48431342",
+    "_collection_link": "https://go.postman.co/collection/48431342-294740d2-967b-46a3-9477-8f6a21bae8ca?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "getAll",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "getOne",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "create",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "del",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
